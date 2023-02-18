@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\lab6_1_Bonnie\lab6_1_Bonnie\bin\Debug\lab6_1_Bonnie.exe.config
+C:\Users\Admin\source\repos\lab6_1_Bonnie\lab6_1_Bonnie\bin\Debug\lab6_1_Bonnie.exe
+C:\Users\Admin\source\repos\lab6_1_Bonnie\lab6_1_Bonnie\bin\Debug\lab6_1_Bonnie.pdb
+C:\Users\Admin\source\repos\lab6_1_Bonnie\lab6_1_Bonnie\obj\Debug\lab6_1_Bonnie.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\lab6_1_Bonnie\lab6_1_Bonnie\obj\Debug\lab6_1_Bonnie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\lab6_1_Bonnie\lab6_1_Bonnie\obj\Debug\lab6_1_Bonnie.Form1.resources
+C:\Users\Admin\source\repos\lab6_1_Bonnie\lab6_1_Bonnie\obj\Debug\lab6_1_Bonnie.Properties.Resources.resources
+C:\Users\Admin\source\repos\lab6_1_Bonnie\lab6_1_Bonnie\obj\Debug\lab6_1_Bonnie.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\lab6_1_Bonnie\lab6_1_Bonnie\obj\Debug\lab6_1_Bonnie.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\lab6_1_Bonnie\lab6_1_Bonnie\obj\Debug\lab6_1_Bonnie.exe
+C:\Users\Admin\source\repos\lab6_1_Bonnie\lab6_1_Bonnie\obj\Debug\lab6_1_Bonnie.pdb
+C:\Users\Admin\source\repos\lab6_1_Bonnie\lab6_1_Bonnie\obj\Debug\lab6_1_Bonnie.Form2.resources
